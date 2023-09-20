@@ -1,0 +1,1 @@
+nuitka --onefile --show-progress --show-memory --windows-uac-admin --output-dir=build uac_run.py
